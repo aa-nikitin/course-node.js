@@ -4,4 +4,5 @@
 
 0. git clone
 1. npm i
-1. npm run server
+2. npm run build
+3. npm run server
