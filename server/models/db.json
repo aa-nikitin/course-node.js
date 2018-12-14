@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    }
+  ],
+  "skills": [
+    {
+      "id": "age",
+      "text": "Возраст начала занятий на скрипке",
+      "textAdmin": "Возраст",
+      "number": "12"
+    },
+    {
+      "id": "concerts",
+      "text": "Концертов отыграл",
+      "textAdmin": "Концертов",
+      "number": "23"
+    },
+    {
+      "id": "cities",
+      "text": "Максимальное число городов в туре",
+      "textAdmin": "Число городов",
+      "number": "91"
+    },
+    {
+      "id": "years",
+      "text": "Лет на сцене в качестве скрипача",
+      "textAdmin": "Лет на сцене",
+      "number": "41"
+    }
+  ],
+  "auth": {
+    "login": "admin@mail.ru",
+    "pass": "123"
+  }
+}
