@@ -16,8 +16,8 @@ router.get('/login', getLogin);
 router.post('/login', setLogin);
 
 router.get('/admin', isAdmin, getAdmin);
-router.post('/admin/skills', setSkills);
-router.post('/admin/upload', setProducts);
+router.post('/admin/skills', isAdmin, setSkills);
+router.post('/admin/upload', isAdmin, setProducts);
 
 router.post('/', sendMsg);
 
